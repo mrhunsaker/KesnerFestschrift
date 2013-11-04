@@ -69,8 +69,15 @@ Additionally, it has been suggested on numerous occasions that the water maze ma
 
 Table 1 outlines the first consideration in developing or choosing behavioral experiments to test mouse disease models, which is to consider what type of memory needs to be tested in the mouse. Briefly, one has to consider if the disorder being studied primarily results in an episodic (event-based) memory deficit, knowledge-based memory deficits, or executive function (rule-based) deficit (Hunsaker, 2012b; Kesner & Hunsaker, 2010; Kesner & Rogers, 2004). Once the memory system being tested is determined, then the component memory domains can be identified and tested using experiments designed with each disorder and model in mind (Hunsaker, 2012a,b; Kesner & Rogers, 2004; Simon, 2007, 2008, 2011; Figure 2).
 
-![Table1]()
-**TABLE 1:** Memory systems used in the attribute theory as applicable to research into mouse models of disease
+ Phase   |  	Event-Based     |			Knowledge-Based    |			 				Rule-Based|
+ ------- | 	---------------  		|	---------------------- 	|					-----------------------|
+ Encoding | 	Pattern Separation  |		Selective Attention  |						Strategy Selection|
+        |	Transient Representations|  	Permanent Memory Representations||
+        |	Short Term Memory  	|		Perceptual Memory  		|					Rule Maintenance|
+        |	Intermediate Term Memory||
+ Retrieval|  Consolidation  	|			Long Term Memory  Rule Maintenance||
+        	|Pattern Completion  |		Retrieval Based on Flexibility and Action | 	Short Term Working Memory||
+Table 1: Description of the processes performed by different memory systems used in the attribute theory as applicable to research using rodents
 
 ---
 
@@ -78,8 +85,17 @@ Event based memory refers to a memory system wherein information is processed on
 
 Table 2 outlines neuroanatomical substrates underlying each attribute in mice that can be consulted to guide the development or application of behavioral tasks for mouse models of disease. Importantly, although these anatomical structures have been shown to underlie the attributes as mentioned in Table 2, this description is more of a blueprint of structures that are critically involved with these processes. Stated another way, when one brain region is shown to underlie or be involved in a process, it is more likely than not that a larger network including the candidate neuroanatomical structure actually subserves the process, and that the contributions of the larger network is more poorly understood than the role for any single structure. An example of this common over-simplification is the hippocampus: hippocampus ablations result in profound deficits for spatial and temporal processing (*cf.*, Jerman, Kesner & Hunsaker, 2006; Hunsaker et al., 2008), but removal of inputs/outputs from the entorhinal cortex and septal nuclei result often in qualitatively similar, if not identical, behavioral deficits (*cf.*, Hunsaker, Tran & Kesner, 2008). As such, it is more correct to state that neural networks that include the hippocampus subserve spatial and temporal processing, rather than than the hippocampus in isolation subserves these memory processes.
 
-![Table 2]()
-**Table 2:** Neuroanatomical correlates underlying each attribute
+Attribute     |		Event-Based     	|		Knowledge-Based    			 	|				Rule-Based|
+--------  	|		---------------  	|		------------------------ 	|					--------------------------|
+Spatial	|			Hippocampus		|			Parietal Cortex			|						Infralimbic/Prelimbic, Retrosplenial Cortex|
+Temporal	|		Hippocampus, Basal Ganglia|	Anterior Cingulate, Infralimbic/Prelimbic	|	Anterior Cingulate, Infralimbic/Prelimbic|
+Sensory/Perceptual|	Sensory Cortices	|		TE2 Cortex, Perirhinal Cortex, Piriform Cortex|	Infralimbic/Prelimbic|
+Response	|		Caudoputamen	|			Precentral Cortex, Cerebellum	|				Precentral Cortex, Cerebellum|
+Affect		|		Amygdala		|			Agranular Insula			|					Agranular Insula, Infralimbic/Prelimbic|
+Executive Function|	Basal Ganglia	|			Infralimbic/Prelimbic, Parietal Cortex	|		Infralimbic/Prelimbic, parietal Cortex|
+Social	|										Unknown Network||
+ProtoLanguage |									Unknown Network||
+Table 2: Primary neuroanatomical correlates underlying each attribute in rodents
 
 ---
 
@@ -103,13 +119,13 @@ The development of the NIH Toolbox can be thought of as analogous to this moveme
 
 Unfortunately for the traditional behavioral phenotyping strategy in mice as well as the NIH Toolbox, these batteries or collections of tools do not take into account the disease state of the mouse model or the clinical population. Using a standard set of tools rather than tools selected based on specific hypotheses does provide data that can compared against clear, accepted norms, but any interpretation of observed findings is often tortured (*cf.*, Figure 1, 2).
 
-![Figure1]()
-**Figure 1: A.** Diagram of standard behavioral phenotyping process in which different mouse models are given the same battery of tasks to define a behavioral phenotype. The outcome of the behavioral tasks are compared to the full clinical phenotype of the genetic disorders being modeled. This approach lacks the specificity and selectivity to identify phenotypes unique to a single disorder. This is a representation of the standard mouse behavioral phenotyping methods (e.g., SHIRPA) as well as the NIH Toolbox. **B.** Diagram of behavioral endophenotyping process in which disorder-specific hypotheses are used to develop unique batteries of behavioral tasks that directly translate to the phenotype of the clinical disorder. This approach does not model the general deficits seen across genetic disorders, but rather specifically identifies phenotypes known to be unique to the genetic disorder being modeled. Figure 2 expands upon Figure 1B. From **Hunsaker, 2012a**
+![Figure1](https://raw.github.com/mrhunsaker/KesnerFestschrift/master/Chapter_Figure%201.png?raw=true)
+Figure 1: A. Diagram of standard behavioral phenotyping process in which different mouse models are given the same battery of tasks to define a behavioral phenotype. The outcome of the behavioral tasks are compared to the full clinical phenotype of the genetic disorders being modeled. This approach lacks the specificity and selectivity to identify phenotypes unique to a single disorder. This is a representation of the standard mouse behavioral phenotyping methods (e.g., SHIRPA) as well as the NIH Toolbox. **B.** Diagram of behavioral endophenotyping process in which disorder-specific hypotheses are used to develop unique batteries of behavioral tasks that directly translate to the phenotype of the clinical disorder. This approach does not model the general deficits seen across genetic disorders, but rather specifically identifies phenotypes known to be unique to the genetic disorder being modeled. Figure 2 expands upon Figure 1B. From **Hunsaker, 2012a**
 
 ---
 
-![Figure2]()
-**Figure 2**. Extension of Figure 1B with a focus on what the behavioral endophenotyping process entails. Note that all aspects of disease ranging from neuropathologic features to systemic pathology to the findings of relevant animal models are included as components that comprise the disease specific hypotheses. Differential effects of disease states on these factors provide the raw data for hypothesis generation and behavioral dissociations of diseases. Importantly, this figure emphasizes that unless two disorders show identical sequelae and pathologies, one cannot be adequately characterized using the same paradigms as those used to characterize the other. Also emphasized is the use of the full spectrum of results from the mouse model being applied to inform the hypotheses concerning the genetic/clinical disorder. This emphasis is the goal for any translational study--that the clinic and the mouse model mutually inform each other's hypotheses.
+![Figure2](https://raw.github.com/mrhunsaker/KesnerFestschrift/master/Chapter_Figure2.png?raw=true)
+Figure 2: Extension of Figure 1B with a focus on what the behavioral endophenotyping process entails. Note that all aspects of disease ranging from neuropathologic features to systemic pathology to the findings of relevant animal models are included as components that comprise the disease specific hypotheses. Differential effects of disease states on these factors provide the raw data for hypothesis generation and behavioral dissociations of diseases. Importantly, this figure emphasizes that unless two disorders show identical sequelae and pathologies, one cannot be adequately characterized using the same paradigms as those used to characterize the other. Also emphasized is the use of the full spectrum of results from the mouse model being applied to inform the hypotheses concerning the genetic/clinical disorder. This emphasis is the goal for any translational study--that the clinic and the mouse model mutually inform each other's hypotheses.
 
 ---
 
@@ -135,8 +151,19 @@ While the focus of NIH Toolbox development has been for use in research studies,
 
 The NIH Toolbox is organized, as mentioned above, into four component domains that can be administered in blocks so as to minimize interference among the tasks contained within each domain. An alternate method of categorizing the tests contained within the NIH Toolbox is by the component attribute tested by each task. Table 3 contains the NIH Toolbox tools, reshuffled by attribute or domain evaluated.
 
-![Table3]()
-**TABLE 3:** NIH Toolbox reshuffled and organized by attribute
+Attribute     |		Event-Based     	|		Knowledge-Based    			 	|				Rule-Based|
+--------  	|		---------------  	|		------------------------ 	|					--------------------------|
+Spatial	|			Picture Sequence Memory		|			*not addressed*		|						*not addressed* |
+Temporal	|		Picture Sequence Working Memory, List Sorting Working Memory|	List Sorting Working Memory	|	List Sorting Working Memory|
+Sensory/Perceptual|	All Tests In Sensory Domain of NIH Toolbox||	*not addressed*|
+Response\*	|		Grip Strength, Knee Extension Strength, Standing Balance, 4 Meter Gait Speed, 2 Minute Walk Endurance	|			9 Hole Pegboard Dexterity	|				Flanker Inhibitory Control and Attention, Dimensional Change Card Sort|
+Affect		|		*not addressed*		|			Surveys in the Emotion Domain of the NIH Toolbox Subsections: Psychological Well Being, Negative Affect, Stress and Self Efficacy, Social Relationships			||
+||**Specific Cross-Domain Tasks Important for Research into Neurodevelopmental Disorders**||
+Executive Function|	Flanker Inhibitory Control and Attention, Dimensional Change Card Sort, List Sorting Working Memory, Pattern Comparison Speed, Oral Symbol Digit|||
+Social	|All Surveys Included in the Social Relationships Subsection of Emotion Domain of the NIH Toolbox|||
+ProtoLanguage |	Ray Auditory Verbal Learning , Picture Vocabulary, Oral Reading Recognition||
+|\* These motor tasks are related to the response attribute, Action-outcome and Stimulus-Response tasks more classically test the response attribute in both the event and knowledge based memory systems|||
+Table 3: NIH Toolbox reshuffled and organized by attribute
 
 ---
 
@@ -166,8 +193,19 @@ The NIH Toolbox is an important tool that facilitates translational research acr
 
 Table 4 outlines a collection of simple tasks based on each component attribute that can be used to test cognitive dysfunction in mouse disease models and provide a functional analog to the NIH Toolbox. Aside from spatial attributes commonly tested, along with the temporal, response, social, and sensory/perceptual attributes, it is also critical to evaluate the role of affect, proto-language, and executive functioning attributes in mouse models of neurodevelopmental disorders, because these domains are often profoundly affected in these clinical populations (Hunsaker, 2012a,b; Simon, 2007, 2008, 2011).
 
-![Table4]()
-**TABLE 4:** Murine options for an NIH Toolbox analog. Italicized tasks are proposed for the mouse NIH toolbox and the rest are recommended for in depth follow-up studies
+Attribute     |		Event-Based     	|		Knowledge-Based    			 	|				Rule-Based|
+--------  	|		---------------  	|		------------------------ 	|					--------------------------|
+Spatial	|*Metric Processing*, *Topological Processing*, Magnitude Estimation, Delay Match To Place With Variable Interference, Biconditional Discrimination For Trial Unique Associations|*Biconditional Discrimination*, Delay Match To Place With Variable Cues, Declarative Sequence Learning, Cheeseboard|Covert Attention Tasks, *Self Ordered Nonmatch To Sample*|
+Temporal	|Trace Conditioning, *Temporal Ordering*, Sequence Learning|Sequence Completion, Duration Discrimination|*5 Choice Serial Reaction Time*, Peak Interval Timing, Time Left Task|
+Sensory/Perceptual|*Delay Match To Sample With Variable Interference*, Acoustic Startle, Pre-Pulse Inhibition, Psychonomic Threshold|*Biconditional Discrimination*||
+Response	|*Ladder Walking Task*, Acquisition Of Skilled Reaching, Working Memory For Motor Movements, *Capellini Handling Task*, Seed shelling tasks|Delay Match To Direction, Direction Discrimination, Nondeclarative Sequence
+learning|Reversal Learning, *Probabilistic Reversal Learning*, Operant Conditioning, Stop Signal Task, Serial Reversal Learning|
+Affect		|		*Reward Contrast With Variable Reward Value*		|CLassical Conditioning, Trace Conditioning, Conditioned Preference, *Anticipatory Contrast* |Operant Conditioning, Gambling Task, Latent inhibition|
+||**Specific Cross-Domain Tasks Important for Murine Research into Neurodevelopmental Disorders**||
+Executive Function|	Contextually Cued Biconditional Discrimination, *5-Choice Serial Reaction Time*, Operant Conditioning, Covert Attention Tasks, *Intra-Extra Dimensional Set Shifting*, Reversal Learning, Probabilistic (80/20) Reversal Learning, Serial Reversal Learning, Stop Signal Task, Gambling Task, Latent Inhibition|||
+Social	|Social Transmission of Food Preference	, *Social Novelty Detection*|||
+ProtoLanguage |	*Spectrographic Analysis of Ultrasonic Vocalizations*|||
+Table 4: Murine options for an NIH Toolbox analog. Italicized tasks are proposed for the mouse NIH toolbox and the rest are recommended for in depth follow-up studies
 
 ---
 
@@ -406,6 +444,7 @@ Salomonczyk, D., Panzera, R., Pirogovosky, E., Goldstein, J., Corey-Bloom, J., S
 Schluter, E. W., Hunsaker, M. R., Greco, C.M., Willemsen, R., Berman, R. F. (2012). Distribution and frequency of intranuclear inclusions in female CGG KI mice modeling the fragile X premutation. Brain Research, 1472, 124-137.
 
 Simon, T. J. (2007). Cognitive characteristics of children with genetic syndromes. Child Adolesc Psychiatr Clin N Am 16, 599-616.
+
 Simon, T. J. (2008). A new account of the neurocognitive foundations of impairments in space, time and number processing in children with chromosome 22q11.2 deletion syndrome. Dev Disabil Res Rev 14, 52-58.
 
 Simon, T. J. (2010). Rewards and challenges of cognitive neuroscience studies of persons with intellectual and developmental disabilities. Am J Intellect Disabilities 115, 79-82.
